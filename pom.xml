@@ -24,7 +24,7 @@
             <artifactId>webdrivermanager</artifactId>
             <version>5.7.0</version> <!-- use latest -->
         </dependency>
-    </dependencies>
+        </dependencies>
 
     <properties>
         <maven.compiler.source>21</maven.compiler.source>
